@@ -1,10 +1,12 @@
 ### Hi there 👋 I 'm Murat
 
+I am particularly interested in Java ,Spring Framework and React but I can easily adapt to new technologies. After graduating, I have been trying to improve myself individually for the last 1 year. 
+
 
 
 <!-- [![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratkistan)](https://github.com/muratkistan) -->
 
-## 🚀 Languages and Tools:
+## 🚀 Technologies
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
