@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am particularly interested in Java ,Spring Framework and React but I can easily adapt to new technologies. After graduating, I have been trying to improve myself individually for the last 1 year. I am prone to teamwork. I can't wait to get into the industry as soon as possible.
+I am particularly interested in Java ,Spring Framework and React but I can easily adapt to new technologies. After graduating, I have been trying to improve myself individually for the last 1 year. I am prone to teamwork.
 
 [![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratkistan)](https://github.com/muratkistan)
 
