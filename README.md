@@ -29,7 +29,7 @@ I am particularly interested in Java ,Spring Framework and React but I can easil
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/muratkistan/github-readme-stats"><img alt="Murat Ali Kıştan's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muratkistan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/muratkistan"><img alt="Murat Ali Kıştan's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muratkistan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
 
 ## Contact with me:
