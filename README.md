@@ -1,7 +1,6 @@
 ### Hi there 👋 I 'm Murat
 
-I am particularly interested in Java ,Spring Framework and React but I can easily adapt to new technologies. After graduating, I have been trying to improve myself individually for the last 1 year. 
-
+I am particularly interested in Java ,Spring Framework and React but I can easily adapt to new technologies.
 
 
 <!-- [![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratkistan)](https://github.com/muratkistan) -->
