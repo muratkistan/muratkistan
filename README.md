@@ -1,6 +1,5 @@
-![snake gif](https://github.com/muratkistan/muratkistan/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi there 👋 I 'm Murat,</h1>
-<h3 align="center">A passionate software developer from Turkiye</h3>
+<h3 align="center">A passionate software developer from Türkiye</h3>
 
 
 
@@ -12,6 +11,22 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="spring"
       width="40"
       height="40"
     />
@@ -68,14 +83,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
       width="40"
       height="40"
     />
@@ -172,15 +179,8 @@
       height="40"
     />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratkistan&show_icons=true&locale=en&layout=compact" alt="muratkistan" /></p>
@@ -188,7 +188,12 @@
 <p>&nbsp;    <a href="https://github.com/muratkistan"><img alt="Murat Ali Kıştan's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muratkistan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
+<!-- ![snake gif](https://github.com/muratkistan/muratkistan/blob/output/github-contribution-grid-snake.gif) -->
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/muratkistan/muratkistan/output/github-contribution-grid-snake-dark.svg" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratkistan&" alt="muratkistan" /></p>
+
+
 
 
 
