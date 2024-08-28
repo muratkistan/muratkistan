@@ -1,4 +1,3 @@
-![snake gif](https://github.com/muratkistan/muratkistan/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi there 👋 I 'm Murat,</h1>
 <h3 align="center">A passionate software developer from Turkiye</h3>
