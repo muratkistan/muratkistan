@@ -204,7 +204,6 @@
 <!-- ![snake gif](https://github.com/muratkistan/muratkistan/blob/output/github-contribution-grid-snake.gif) -->
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/muratkistan/muratkistan/output/github-contribution-grid-snake-dark.svg" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratkistan&" alt="muratkistan" /></p>
 
 
 
