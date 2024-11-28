@@ -29,7 +29,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=big)
 ![Redis](https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto)
 ![Postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=big)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white&logoSize=auto)
 ![Dotnet Core](https://img.shields.io/badge/Core-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-blue?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
