@@ -15,6 +15,22 @@
 <div align="center">
   
 ## 💻 Tech Stack ⚡
+![Dotnet Core](https://img.shields.io/badge/Core-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-blue?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
+![Blazor](https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white&logoSize=big)
+
+![Microservices](https://img.shields.io/badge/Microservices-brown?style=for-the-badge&logoColor=white&logoSize=auto)
+![Api Gateway](https://img.shields.io/badge/API%20Gateway-%23b5833c?style=for-the-badge&logoColor=white&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=big)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=big)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=red&color=grey)
+
+![Redis](https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto)
+![Postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=big)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white&logoSize=auto)
+![Keycloak](https://img.shields.io/badge/Keycloak-black?style=for-the-badge&logo=keycloak&logoColor=blue&color=grey)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white&logoSize=big)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white&logoSize=big)
@@ -23,28 +39,20 @@
 ![JPA](https://img.shields.io/badge/JPA-black?style=for-the-badge&logoColor=white&logoSize=auto)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&logoSize=big)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white&logoSize=auto)
-![Microservices](https://img.shields.io/badge/Microservices-brown?style=for-the-badge&logoColor=white&logoSize=auto)
-![Api Gateway](https://img.shields.io/badge/API%20Gateway-%23b5833c?style=for-the-badge&logoColor=white&logoSize=auto)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=big)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white&logoSize=big)
-![Redis](https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto)
-![Postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=big)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-orange?style=for-the-badge&logo=elasticsearch&logoColor=white&logoSize=auto)
-![Dotnet Core](https://img.shields.io/badge/Core-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-blue?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
-![Blazor](https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white&logoSize=big)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NextJs](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=big)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&logoSize=big)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&logoSize=big)
-![NextJs](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=big)
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 <br/>
 <!-- Stats -->
