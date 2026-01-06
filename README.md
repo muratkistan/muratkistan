@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi there 👋 I 'm Murat,</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
-<!-- <p align="center">
+ <p align="center">
     <img alt="coding" width="600" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-</p> -->
-<!-- <p align="center">
+</p>
+<!-- 
+ <p align="center">
     <img alt="coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" />
-</p> -->
+</p>-->
 <br/>
 
 
@@ -56,6 +57,7 @@
 </div>
 <br/>
 <!-- Stats -->
+<!--
 <div align="center">
     
   <img src="https://github-readme-stats.vercel.app/api?username=muratkistan&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -63,13 +65,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratkistan&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
   
 </div>
+-->
 
 <!-- Snake -->
+<!-- 
 <div align="center">    
     
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/muratkistan/muratkistan/output/github-contribution-grid-snake-dark.svg" />
   
 </div>
+-->
 
 <!-- Socials -->
 <div align="center"> 
