@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Hi there 👋 I 'm Murat,</h1>
+<h1 align="center">Hi there 👋 I'm Murat,</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 <p align="center">
     <img alt="coding" width="600" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
@@ -134,22 +132,33 @@
 </div>
 -->
 
-<!-- Socials -->
-<div align="center"> 
-    
-## 🌐 Contact with Me 
- <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&lo[](url)goColor=white)](https://linkedin.com/in/muratkistan)  
- <a href="https://linkedin.com/in/muratkistan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratkistan" height="30" width="40" /></a>-->
-<a href = "https://www.linkedin.com/in/muratkistan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</div>
-<br/><br/><br/>
 <!-- Counter -->
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=muratkistan&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
+
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <i>Open to collaboration on backend systems, computer vision and industrial AI projects.<br/>
+  Feel free to reach out — I usually reply within a day! 🚀</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muratkistan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muratkistan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:2F81F7&height=110&section=footer" width="100%" />
+</p>
 
 
 
@@ -169,4 +178,3 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) 
 -->
-
